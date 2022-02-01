@@ -1,4 +1,4 @@
-package com.andriukhov.shoppinglist
+package com.andriukhov.shoppinglist.presentation
 
 import android.os.Bundle
 import com.google.android.material.snackbar.Snackbar
@@ -9,6 +9,7 @@ import androidx.navigation.ui.navigateUp
 import androidx.navigation.ui.setupActionBarWithNavController
 import android.view.Menu
 import android.view.MenuItem
+import com.andriukhov.shoppinglist.R
 import com.andriukhov.shoppinglist.databinding.ActivityMainBinding
 
 class MainActivity : AppCompatActivity() {
